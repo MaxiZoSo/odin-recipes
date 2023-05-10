@@ -10,3 +10,9 @@ div,
     display: grid;
     place-items: center;
 }
+
+h1,
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
