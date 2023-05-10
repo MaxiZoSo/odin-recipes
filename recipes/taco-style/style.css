@@ -1,10 +1,11 @@
-*{
+/*{
     border: 2px solid red;
-}
+}*/
 body {
-    background-color: navy;
+    background-color: rgb(38, 38, 175);
     color: whitesmoke;
     font-family: fantasy;
+    width: 500x;
 }
 
 div, 
@@ -23,12 +24,17 @@ ul {
 
 a {
     color: azure;
+    font-size:  large;
 }
 
 .padme {
-    margin-left: 113px;
+    margin-left: 125px;
 }
 
 .margime {
-    margin-left: 30px;
+    margin-left: 33px;
+}
+
+.two {
+    margin-right: 100px;
 }
