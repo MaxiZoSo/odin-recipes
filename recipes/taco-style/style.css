@@ -1,6 +1,7 @@
 body {
     background-color: navy;
     color: whitesmoke;
+    font-family: fantasy;
 }
 
 div, 
@@ -15,4 +16,8 @@ h1,
 ul {
     text-align: center;
     list-style-position: inside;
+}
+
+a {
+    color: azure;
 }
