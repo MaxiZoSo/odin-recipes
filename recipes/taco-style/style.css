@@ -2,7 +2,7 @@
     border: 2px solid red;
 }*/
 body {
-    background-color: rgb(38, 38, 175);
+    background: linear-gradient(90deg, rgb(213, 124, 7), rgb(0, 0, 55) 50%, rgb(213, 124, 7));
     color: whitesmoke;
     font-family: fantasy;
     width: 500x;
@@ -37,4 +37,8 @@ a {
 
 .two {
     margin-right: 100px;
+}
+
+.textbckgrnd {
+    
 }
