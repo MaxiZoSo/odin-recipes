@@ -1,3 +1,6 @@
+*{
+    border: 2px solid red;
+}
 body {
     background-color: navy;
     color: whitesmoke;
@@ -20,4 +23,12 @@ ul {
 
 a {
     color: azure;
+}
+
+.padme {
+    margin-left: 113px;
+}
+
+.margime {
+    margin-left: 30px;
 }
