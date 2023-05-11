@@ -39,6 +39,12 @@ a {
     margin-right: 100px;
 }
 
-.textbckgrnd {
-    
+.list > li {
+    display: flex;
+    background: linear-gradient(90deg, rgb(213, 124, 7), rgb(0, 0, 55) 50%, rgb(213, 124, 7));
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+
 }
+
